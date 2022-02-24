@@ -1,0 +1,399 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Large and sure foundations</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1693</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 60 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A49585</idno>
+            <idno type="STC">Wing L437</idno>
+            <idno type="STC">ESTC R16686</idno>
+            <idno type="EEBO-CITATION">12210081</idno>
+            <idno type="OCLC">ocm 12210081</idno>
+            <idno type="VID">56269</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A49585)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 56269)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 765:16)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Large and sure foundations</title>
+               </titleStmt>
+               <extent>[4], 11 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1693.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Errata: p. 11.</note>
+                  <note>"By the author of the View of universal historie" in manuscript on t.p.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  N.T. --  Matthew XVI, 18 --  Criticism, interpretation, etc.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-05</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2010-05</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:56269:1" rendition="simple:additions"/>
+            <p>LARGE AND SURE FOUNDATIONS.</p>
+            <q>
+               <bibl>
+                  <hi>Matth. 16.18.</hi>
+               </bibl>
+Upon this Rock will I Build my Church.</q>
+            <figure/>
+            <p>
+               <hi>LONDON,</hi> Printed in the Year 1693.</p>
+         </div>
+         <div type="preface">
+            <pb facs="tcp:56269:2" rendition="simple:additions"/>
+            <pb facs="tcp:56269:2"/>
+            <head>THE PREFACE.</head>
+            <p>THESE Papers were drawn up ſome time ago, and are the reſult of Setled Thoughts for many years. They are made ſhort and plain, and caſt in amongst others, if poſſibly they may help to unite us in Intereſt and Affection, and to make the Publick Settle<g ref="char:EOLhyphen"/>ment of Religion at any time, more Large and Strong to our great Advantage every way. Some hopes of this are raiſed by the Inclinations of many, and the ſeveral Pieces lately Publisſh'd to this end; as (beſides many that I may not have ſeen or heard of,) The Heads of Agreement aſſented to by the <g ref="char:V">Ʋ</g>nited Miniſters, Free Thoughts occaſioned by thoſe Heads; Mr. <hi>Barker</hi>'s Sermon on <hi>John 21.17.</hi> at the Conſecration of the Arch-Biſhop of <hi>Cant.</hi> The <hi>Grand Queſtion</hi> (Writ as 'tis ſaid by Dr. <hi>Woodroff;</hi>) Dr. <hi>Sherlock</hi>'s Sermon before the Lord Mayor, <hi>Nov. 4. 1688.</hi> To which I may add, the Spirit of the Church Faction; for it is that only, and not the Church, that violently oppoſes all Reformation.</p>
+            <p>
+               <hi>The Deſign of laying down this great Principle, and the Inferences from it, is,</hi>
+            </p>
+            <p>That Perſons who have Power, may not impoſe <g ref="char:V">Ʋ</g>nneceſſary Things, but give all the Liberty that may be; this being moſt pleaſing to <hi>Jeſus Chriſt,</hi> and moſt for ſtrengthning the Publick Settlement.</p>
+            <p>That People may joyn with others in the Worſhip of God as much as may be, and not give way to Scruples and Opinions that make them ſeparate needleſly. Impoſing, and Oppoſing needleſly, ruin us much.</p>
+            <p>That if People cannot joyn with others conſtantly, yet that they will do it ſometimes; both thoſe, that cannot approve what is publickly injoin'd; and they that injoyn thoſe things, or in their places practiſe them.</p>
+            <p>That if any cannot do that, yet that they will own thoſe they cannot joyn with (if they build on the true Foundation) for true, tho' diſtemper'd Churches of Chriſt, and unfeignedly ſeek their good.</p>
+            <p>That if they cannot do that, through ſome ſtrict Notions of a Church they are poſſeſſed with, yet they will own, that many amongst them may be ſincere Chriſtians, and love them as ſuch.</p>
+            <p>And that all kindneſs may be ſhewed to all Men, even to all ſorts that Err and are deceived, according to the Will and Command of our <hi>Lord Jeſus Chriſt,</hi> whoſe Kingdom ſhall ſtand for evermore.</p>
+            <p>But if God, for Holy ends, ſhall yet ſuffer Narrow Foundations, and their Wicked Conſequences, (as he doth Plagues and Wars) to continue amongst us, and in the World, why ſhould we complain? We are Wanton, Humorous, Fooliſh, and ſhould be undone, without often and ſharp Corrections; and our God
+<pb facs="tcp:56269:3"/>hath uſed to carry on his Kingdom by the Teſtimony and Sufferings of his Peo<g ref="char:EOLhyphen"/>ple (tho' he ſometimes gives them reſt that they may multiply,<note place="margin">Rev. 12.11. Acts 9.31.</note>) thereby to ſet forth his Power and Glory. To him we chearfully ſubmit; yet endea<g ref="char:EOLhyphen"/>vouring according to our duty in our places, that Princes and People may be found in his ways,<note place="margin">Iſa. 61.11.</note> and that Righteouſneſs and Praiſe may ſpring up among us, and before all Nations.</p>
+            <div type="passages">
+               <head>Some Paſſages out of BOOKS that came out ſince theſe Papers were drawn up.</head>
+               <p>THE Pious and Famous Mr. <hi>Robert Boyle,</hi> who lov'd no Practice that ſeem'd to leſſen the Chriſtian Religion,<note place="margin">The Biſhop of <hi>Sarum</hi>'s Serm. at his Funeral. <hi>Decem.</hi> 1691. p. 25. p. 27.</note> thought pure and diſintereſſed Chriſtianity, a Bright and Glorious thing: Hated thoſe Opinions that ſeem'd to him to deſtroy Morality and Charity; had a moſt peculiar Zeal againſt all Severities and Perſecutions upon the account of Religion; and was obſerved ſeldom to ſpeak with more heat and indignation than when That came in his way.</p>
+               <p>
+                  <hi>Union Purſued,</hi>
+                  <note place="margin">Printed, 1691.</note> in a Letter to Mr. <hi>Baxter</hi> concerning his late Book about National Churches; that <hi>Presbyterians,</hi> and <hi>Independants</hi> may both be <g ref="char:V">Ʋ</g>nited with the Church of <hi>England;</hi> to which is added, a ſmall Tract lately put out, called <hi>A Draught for Accommodation.</hi>
+               </p>
+               <p>Dr. <hi>Patrick</hi> Biſhop of <hi>Ely</hi> Complains,<note place="margin">Serm. before the Lords, <hi>Nov.</hi> 26. 1691. on <hi>Deut.</hi> 4.9. p. 12.</note> that many were kinder to the Pa<g ref="char:EOLhyphen"/>piſts, than to the Proteſtant Diſſenters; that the Papiſts, their ſworn Enemies, made them their Tools to deſtroy each other: We to repent truly of this, and take heed leſt our Affections that ſeem'd to be diſpoſed to Reconciliation, be again alienated one from another: We ought to have a greater kindneſs for Infidels,<note place="margin">p. 15.</note> than many of us had lately one for another. Did we not begin to reflect with grief upon our Zealous folly?<note place="margin">p. 17.</note> Did we not reſolve to be Friends upon ſome terms or other, and to joyn together for our mutual Preſervation? And do we now break out again into the ſaid Outrages? Do our Spirits boil up with anger at the very mention of Reconciliation? <hi>&amp;c.</hi>
+               </p>
+               <p>His Prayers for Charity, Peace, and <g ref="char:V">Ʋ</g>nity.</p>
+               <p>The Prayers Appointed for the Publick Faſt, in the Year <hi>1692.</hi>
+               </p>
+            </div>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:56269:3"/>
+            <head>The Church of God is Built on Large and Sure Foundations.</head>
+            <p>THE Bleſſed God, whoſe tender Mercies are over all his Works, hath a Company of People in the World, call'd his Church, which he purcha<g ref="char:EOLhyphen"/>ſed by the Blood of his only Begotten Son,<note place="margin">
+                  <hi>Acts</hi> 20.28.</note> and calls by his Word and Spirit to know and ſerve him, ſo as to ſet forth his Glory here, and obtatin Everlaſting Salvation.</p>
+            <p>This Church, or Congregation of God (for ſo the Word <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> Signifies) is call'd by ſeveral Names; as the Kingdom of Chriſt, the Flock of Chriſt, the Body of Chriſt; and is oft call'd a Houſe, and ſaid to be built upon a Foundation.<note place="margin">
+                  <hi>Iſa.</hi> 28.6. 1 <hi>Pet.</hi> 2.4, 5, 6.</note> And this Houſe of God being very great, muſt needs have a great and large Foundation. <hi>Solomon</hi> ſaid the Houſe he was to build for God was great, and the Foundation of it was Great and Coſtly; how much Greater muſt the Spiritual Houſe of God be, which reaches over all the World; Not only through <hi>Pontus, Galatia, Aſia, Cappadocia,</hi> and <hi>Bythinia,</hi> which ſounds great, but through all Nations, and Ages. Its Foundation muſt by no means be narrow, vile, or weak.</p>
+            <p>Now the Foundation of this Houſe is <hi>JESUS CHRIST,</hi> and the great Truths Concerning him, reveal'd to us by God, in his Word, not Humane Reaſon,<note place="margin">1 <hi>Cor.</hi> 3.11. <hi>Eph.</hi> 1.20, 21, 22.</note> nor the Traditions of any Men whatſoever; but the Foundation of the Apoſtles, and Prophets, <hi>Jeſus Chriſt</hi> himſelf being the Chief Corner-ſtone; in whom it grows up into a Holy Temple, for a Habitation of God through the Spirit.</p>
+            <p>Yet all things reveal'd in the Scriptures of the Old and New Teſtament, are not the Foundation upon which Chriſt's Houſe or Congregation is built, (for many of thoſe things are for the Superſtructure and Perfecting of it,) but only the Great and Main Things concerning <hi>Jeſus Chriſt</hi> our Saviour, which are neceſſary to be believed, and practiſed by all; and therefore <hi>the Churches Foundation is Large, and ſure.</hi> This is ma<g ref="char:EOLhyphen"/>nifeſt every way.</p>
+            <p>
+               <hi>Firſt,</hi> From the Holy Scriptures; of the Old Teſtament; how few things were neceſſa<g ref="char:EOLhyphen"/>ry to be explicitely believed then?</p>
+            <p>Of the New Teſtament, when all things were clearly reveal'd, and ſetled; only the Great things were required then. St. <hi>Peter</hi> ſaid, <hi>Thou art Chriſt the Son of the Living God;</hi> and Chriſt ſaid, <hi>upon this Rock will I build my Church, &amp;c.</hi> And again, <hi>thou haſt the words of Eternal Life; and we believe and are ſure that thou art that Chriſt,</hi>
+               <note place="margin">
+                  <hi>Mat.</hi> 16.16.18. <hi>Joh.</hi> 6.68, 69.</note> 
+               <hi>the Son of the Living God.</hi>
+            </p>
+            <p>Chriſt our Lord, when riſen from the Dead, and had opened his Diſciples Minds to underſtand the Scriptures, ordered them to <hi>Teach all Nations,</hi>
+               <note place="margin">
+                  <hi>Mat.</hi> 28.19, 20.</note> 
+               <hi>and to Baptize them in the Name of the Father, Son, and Holy Ghoſt;</hi> and then <hi>to Teach them to obſerve all things whatſoever he had commanded them,</hi> but not whatſoever they ſhould deviſe.</p>
+            <p>
+               <hi>Philip</hi> tells the Eunuch, <hi>if he believed with all his heart, he might be Baptized;</hi>
+               <note place="margin">
+                  <hi>Acts</hi> 8.37.</note> and was ſatisfied with this Confeſſion of his, <hi>I believe that Jeſus Chriſt is the Son of God.</hi>
+            </p>
+            <p>St. <hi>Paul,</hi> many years after, writing to the <hi>Romans,</hi> ſaith, <hi>if thou ſhalt confeſs with thy mouth the Lord Jeſus,</hi>
+               <note place="margin">
+                  <hi>Ro.</hi> 10.9, 10.</note> 
+               <hi>and ſhalt believe in thy heart that God hath raiſed him from the dead, thou ſhalt be ſaved; for with the heart Man believeth, &amp;c.</hi> And tells us what he had Preached to the <hi>Corinthians</hi> that they might be Saved, <hi>How that Chriſt died for our Sins according to the Scriptures, and that he was Buried,</hi>
+               <note place="margin">1 <hi>Cor.</hi> 15.1.4.</note> 
+               <hi>and that he roſe again the third day according to the Scriptures, &amp;c.</hi>
+            </p>
+            <p>
+               <pb n="2" facs="tcp:56269:4"/>St. <hi>John</hi> ſaith,<note place="margin">1 <hi>Joh.</hi> 3.23.</note> 
+               <hi>This is his Commandment, that we ſhould believe on the Name of his Son Jeſus Chriſt, and love one another, as he gave us Commandment.</hi> And thus, Obe<g ref="char:EOLhyphen"/>dience to the great Commands of Chriſt, (whether only revealed by him, or alſo written in our Hearts) is a neceſſary part of our Religion, as well as the Belief of his Great Truths. <hi>To love the Lord our God with all our heart</hi> — <hi>and our Neighbour as our ſelves. For Chriſt is the Author of Eternal Salvation to thoſe only that obey him;</hi>
+               <note place="margin">
+                  <hi>Mat.</hi> 22.37.39. <hi>Hebr.</hi> 5.9. 2 <hi>Tim.</hi> 1.13.</note> and we are to <hi>hold faſt the form of ſound words in Faith and Love which is in Chriſt Jeſus.</hi>
+            </p>
+            <p>And thus we find the Apoſtles practiſed. They bore with many that held the true Foundation, but taught and did amiſs; they bore with thoſe at <hi>Jeruſalem</hi> that were Zealous of the Law.<note place="margin">
+                  <hi>Acts</hi> 21. <hi>Rom.</hi> 14.</note> They reprov'd thoſe at <hi>Rome</hi> who deſpiſed them that durſt not eat all things, and thoſe who judged them that durſt eat all things, but bore with both, and <hi>Exhorted them to do ſo to one another.</hi> And ſo in other places of the <hi>Acts,</hi> and the <hi>E<g ref="char:EOLhyphen"/>piſtles,</hi> they oft reprov'd and taught Believers better, but never denied them to be of God's Church; and no wonder, ſince it pleaſes God, not preſently to Cure all whom he truly Converts, of their Errours, but uſually doth it by degrees.</p>
+            <p>
+               <note place="margin">See <hi>Voſſius</hi> and <hi>Uſher</hi> de Sym<g ref="char:EOLhyphen"/>bolis.</note>
+               <hi>Secondly,</hi> The Ancient Practice and Creeds of the Church, teach this: for they are ge<g ref="char:EOLhyphen"/>nerally very ſhort, and contain only the main things of our Religion, and agree in ſenſe tho' not in the very words. We may ſee this in <hi>Juſtin Martyr</hi>'s Apollogie; in <hi>Irenaeus,</hi>
+               <note place="margin">Grotius <hi>on Mat.</hi> 28.19.</note> l. 1. c. 2. <hi>&amp;</hi> l. 3. c. 4. in <hi>Tertullian de velandis Virgin.</hi> c. 1. <hi>de Praeſcriptionibus,</hi> c. 13. <hi>&amp; contra Praxeam,</hi> c. 2. And ſo for a great while after; tho' by degrees they grew larger, yet not much, as we ſee in moſt of them we now uſe. And the Creed at firſt, was only in thoſe words at Baptiſm, <hi>In the Name of the Father, Son, and Holy Ghoſt.</hi>
+            </p>
+            <p>
+               <hi>Thirdly,</hi> Reaſon alſo ſpeaks this fully, that all things which are for the perfection and well-being of a thing, are not neceſſary to the Being of it. This holds true in all Perſons and Things, both Natural, and Civil, and muſt do ſo as to the Church of God: All Rooms in the ſame Houſe are not equally furniſhed, or perfect, yet are parts of the Houſe; And why not ſo with God's Houſe? Elſe a great many of his true Churches will be denied to be parts of his Univerſal Church; and ſeveral Parties will (in their Judgment) cut off one another from it, which is a heinous Sin, how light ſoever ſome may make of it.</p>
+            <p>
+               <hi>Fourthly,</hi> The Judgment of Great Men, tho' differing in many other things, fully a<g ref="char:EOLhyphen"/>grees in this, with Scripture, Reaſon, and Antiquity. I by no means build on this, yet mention it to remove the ſtrong prejudices that poſſeſs many, and ſhut out the Truth.</p>
+            <p>Many Years ago reading Arch-Biſhop <hi>Laud</hi>'s Book againſt <hi>Fiſher,</hi>
+               <note place="margin">§. 9</note> I obſerv'd divers good Paſſages againſt narrow Foundations; that<note n="*" place="margin">
+                  <hi>De no<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>s</hi> Eccl. c. 8.</note> 
+               <hi>Bellarmin</hi> makes the <hi>Greeks</hi> no Church, and ſo denies them Salvation; that a chief means whereby <hi>Rome</hi> grew to her Greatneſs, was to blaſt every Oppoſer by the Name of Heretick, or Schiſmatick; that in things neceſſary, we have an abſolute certainty in the Scriptures, Creeds, and the Four firſt General Councils,<note place="margin">§. 10.</note> and in other things not abſolutely neceſſary, if Chriſtians differ, it is no more than hath been in all Ages more or leſs, and yet may and do preſerve one ne<g ref="char:EOLhyphen"/>ceſſary Faith and Charity entire.<note place="margin">§. 38.</note> And again, that there's a Latitude in Fundamentals, <hi>(for to whom much is given, of him much ſhall be required)</hi> as well in Belief, as in Obe<g ref="char:EOLhyphen"/>dience; the Sum of Obedience being in <hi>Mat.</hi> 22.37, 39. and of Faith in <hi>Hebr.</hi> 11: 6. or <hi>Act.</hi> 4.12;<note place="margin">L. 3. <hi>de Trinit. ad finem. Inſtit.</hi> l. 4. c. 1.</note> and Cites <hi>Hilary, In facili nobis eſt Aeternitas, Jeſum ſuſcitatum a mortuis per Deum credere, &amp; Ipſum eſſe Dominum confiteri.</hi>
+            </p>
+            <p>In this he agrees with <hi>Calvin; Sunt quaedam ita cognitu neceſſaria, ut fixa eſſe om<g ref="char:EOLhyphen"/>nibus oporteat,</hi>
+               <note place="margin">§. 12.</note> 
+               <hi>qualia ſunt, Unum eſſe Deum, Chriſtum eſſe Deum &amp; Dei Filium, in Dei miſericordia ſalutem nobis conſiſtere; Alia controverſa, quae Fidei Unitatem non dirimunt, &amp;c.</hi> Multitudes of Foreign Writers might be alledged, but I chuſe rather to keep to our own Country.</p>
+            <p>
+               <note place="margin">Printed before His Hiſtory of <hi>Scotland.</hi>
+               </note>Arch-Biſhop <hi>Spotſwood</hi> in his Will briefly ſummed up the things in the Apoſtles <hi>Creed,</hi>
+               <note place="margin">That God is one in <hi>3</hi> Perſons, the Father, Creator of all things; the Son made man in the fulneſs of time, who by his bitter Death and Paſſion having redeem'd Man<g ref="char:EOLhyphen"/>kind from death, aſcended into Heaven, from whence he will come to judge all fleſh; and the Holy Ghoſt proceeding from the Father and the Son, the Sanctifier of all that believe. That this God hath choſen to himſelf a Church, the Members whereof living in Communion, tho' never ſo diſpers'd, ſhall by his infinite mercy receive remiſſion of all their ſins, and being rais'd in their Bodies, at the laſt day, ſhall receive everlaſting life.</note> and then added; <hi>This is the Sum of my Faith:</hi> other additaments which Ignorance and Cor<g ref="char:EOLhyphen"/>ruption have ſuperinduc'd into Chriſtianity, I ſimply refuſe, beſeeching God to Purge his Church, <hi>&amp;c.</hi>—And in the ſimplicity of this Faith, ſaith the Author, he liv'd, and dy'd.</p>
+            <p>
+               <pb n="3" facs="tcp:56269:4"/>
+               <note place="margin">Rex arbitratur rerum abſolute neceſſariarum ad ſalutem non Magnum eſſe Numerum; &amp; nullam ad Concordiam breviorem viam fore, quàm ſi diligenter ſeparentur Neceſſaria à non Neceſſariis, &amp; <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t de Neceſſariis conveniat omnis opera inſumatur. In non Neceſſariis, libertati Chriſtianae locus detur. Simpliciter Neceſſaria Rex uppe<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>at, quae vel expreſſe Ver<g ref="char:EOLhyphen"/>bum Dei praecipit credenda faciendare, vel ex Verbo Dei neceſſariâ con<g ref="char:EOLhyphen"/>ſequentiâ Verus Eccleſia elicuit—Si haec diffinctio adhiberetur, at Jus Divinum à Poſitivo ſeu Eccleſiaſtico candide ſeparetur, non videtur de Neceſſariis longa contentio futura.</note>King <hi>James,</hi>
+               <note place="margin">
+                  <hi>Iſaac Caſaub.</hi> in Epiſtola ad Card <hi>Peron.</hi> Regis <hi>Jac.</hi> nomine ſcripta.</note> a much Grea<g ref="char:EOLhyphen"/>ter Perſon, before him, by the Pen of <hi>Iſaac Caſaubon,</hi> ſpake the ſame, that the things ab<g ref="char:EOLhyphen"/>ſolutely neceſſary to Salvation are but few.</p>
+            <p>Mr. <hi>Chillingworth</hi> a Perſon of Note (whoſe Book againſt <hi>Knot</hi> was Licens'd by the Profeſſors of Divinity at <hi>Oxford</hi>) ſets that Paſſage in the Front of it;<note place="margin">The Prot. Relig. a ſafe way to Salvation; at <hi>Oxford, 1638. §. 30. §. 43.</hi>
+               </note> and in his Epiſtle to the King, calls it a <hi>Bleſſed Doctrine;</hi> and in his Preface ſaith, <hi>All things neceſſary to Sal<g ref="char:EOLhyphen"/>vation, are evidently contain'd in the Scripture;</hi> and that there's no Concluſion in the whole Fabrick of his Diſcourſe that is not naturally deducible out of it: And that he that believes the Scripture ſincerely, and endeavours to believe it in the true ſence, cannot poſ<g ref="char:EOLhyphen"/>ſibly be a Heretick; and if no more than this was requir'd of any Man to make him capa<g ref="char:EOLhyphen"/>ble of Chriſtian Communion, then all Men ſo qualified, tho' different in Opinion, be of neceſſity one in Communion; And Men ſhall find this, not only a better, but the only means to ſuppreſs Hereſie, and reſtore Unity. And in his Anſwer to <hi>Knot</hi>'s Preface,<note place="margin">§. 12.</note> that to ſay, that Chriſtians of different Perſuaſions and Communions (ſuch as hold all thoſe things that are ſimply neceſſary to Salvation;) may obtain Pardon for the Errors wherein they die ignorantly, by a general Repentance, is ſo far from being a ground of Atheiſm, as <hi>Knot</hi> ſaid, that to ſay the contrary, is to croſs in Diameter a main Article of our Creed, and to overthrow the Goſpel of Chriſt.</p>
+            <p>Dr. <hi>Stillingfleet</hi> having Cited with applauſe,<note place="margin">
+                  <hi>Irenicum, ann.</hi> 1662. Part 1. Ch. 6. §. 6.</note> a large Paſſage of Mr. <hi>Hales</hi> concerning Schiſm, ſaith, <hi>The Primitive Church was very large in their Foundation, and propoſed only the main Truths in great ſimplicity, and charg'd not People with loads of Articles, as in latter Ages; and much leſs would burthen Men with impoſing doubtful Practices upon them as a ground of Church Communion:</hi> St. <hi>Auguſtin</hi> ſaying, <hi>the Rule of Faith is common (or fit) both for the Weak, and Strong.</hi> And he goes upon this Principle in his Defence of Arch-Biſhop <hi>Laud</hi>'s Book.</p>
+            <p>Multitudes of places to this effect might be Cited out of Dr. <hi>Owen,</hi> Mr. <hi>Baxter,</hi> and many other of the Non-Conformiſts; as, <hi>would it hurt Kings or Souls to have all Chri<g ref="char:EOLhyphen"/>ſtians hold their Unity and Communion juſt on the terms they did under St.</hi> Peter, <hi>and St.</hi> Paul, <hi>&amp;c.</hi>
+            </p>
+            <p>
+               <note place="margin">The Nature of Religion in <hi>3</hi> Diſcourſes, put out by Mr. <hi>R. Baxter,</hi> Anno, <hi>1684.</hi>
+               </note>Our Famous and Judicious Judge <hi>Hales,</hi> (to add no more) ſays, Religion is plain and eaſie to be known; is beſt in its Simplicity, and Purity, but is hard to be kept from Cor<g ref="char:EOLhyphen"/>ruption by additions which choak and ſtifle it: This is done by the Subtleties of the Schools, by turning Religion into Politick Contrivances for Wealth and Power, and by Conteſts about Church-Government, and Ceremonies, ſo as to lay the weight of Religion on them, <hi>&amp;c.</hi> To this are added the Teſtimonies of Sir <hi>Francis Bacon,</hi> and of Dr. <hi>Iſaac Barrow.</hi>
+            </p>
+            <p>Many ſayings that paſs current amongſt all, Atteſt this; as, <hi>in neceſſariis Unitas, in Adiaphoris libertas, in Utriſque Charitas,</hi> &amp;c. But it's needleſs to add more Scriptures, Reaſons or Authorities for this.</p>
+            <p>It's certain therefore, that <hi>all that believe the great neceſſary Truths, hold Chriſt the Head, and obey His Great Commands, are true Members of Chriſts Univerſal Church, and ſhall be Saved, though they be Ignorant or Erronious in many Uſeful things:</hi> For their Works may be burnt, and they ſuffer loſs, <hi>but they ſhall be Saved, yet ſo as by Fire.</hi>
+            </p>
+            <p>And thoſe that would Build the Church of God indeed, and thereby do good to the World, muſt keep their Eyes ſtrongly fixed on this large Foundation of it in Faith and Love; becauſe the Blindneſs of many (which yet goes under the Name of Zeal and Knowledg) is ſuch, that inſtead of it they have laid Narrow and Falſe Ones; ſome by adding many things as Neceſſary, that are not found in Scripture, or are contrary to it, or but their Nice Diſputes of things mentioned in it; and others by Impoſing many Uſeful Truths as Neceſſary, and Excluding all that own them not. And this main Truth may be greatly abuſed, (as it hath been.)<note n="*" place="margin">As the Naked Goſpel ſeems to do, while it pre<g ref="char:EOLhyphen"/>tends to enlarge Charity and ex<g ref="char:EOLhyphen"/>plode Impoſition.</note> Some its like may preſs it, to make the Foun<g ref="char:EOLhyphen"/>dations ſo large, as to ſet up a new Heatheniſm, and make Chriſt our Saviour in effect needleſs; or to lay aſide many excellent Truths now owned among us, and privily to bring in damnable Hereſies that overthrow the Foundation. But we are firmly to cleave to it,
+<pb n="4" facs="tcp:56269:5"/>becauſe it's a moſt certain Truth, and of the greateſt Conſequence, if well minded, to build up the Church of God. For,</p>
+            <p>From hence it plainly follows,</p>
+            <p>Firſt, That if all who Believe and Obey the Neceſſary Truths of the Goſpel, are Members of the Univerſal Church of God, then <hi>no Particular Churches may require ſuch Perſons to profeſs and own divers other Uſeful Truths, to the end they may be received into Communion with them.</hi> Many believe they may and ought to propoſe many Profitable Truths to ſuch as Neceſſary Conditions of their Communion with them, and will bring many Plauſible reaſons for it. But it's clear by the former Principle, they may not. For if they be true Members of Chriſt's Church, though they do not know or own thoſe Truths, why ſhould thoſe Truths be preſſed upon them to make them Members of ſuch a Church or Churches in Particular?<note place="margin">Part <hi>1.</hi> Ch. <hi>2. § 3.4.5.</hi> &amp;c.</note> Shall they Exclude thoſe that Chriſt receives? This is Evil and cauſes great Diviſions. Dr. <hi>Stillingfleet</hi> in his Defence of Arch Biſhop <hi>Laud</hi> builds much on this, that only the Truths that are neceſſary to be believed in order to Salvation, are neceſſary to believed as to Church Communion.</p>
+            <p>
+               <hi>Ob.</hi> This will diſhonour Chriſt, to take in Erronious Perſons, if they hold and practice the Eſſentials of <hi>Chriſtianity.</hi>
+            </p>
+            <p>
+               <hi>R.</hi> No: But it's for the Honour of Chriſt to be ſo Compaſſionate, and extend his Grace ſo far as to receive ſuch; and his Churches are made for the curing of ſuch; and therefore the Paſtors of Churches ſhould not be ſuch, though the People may. If we have not the Errors of ſuch, may we not have ſins as provoking as their Errors? If many beſides thoſe that are moſt Orthodox, have true Faith and Love, and the Spirit of Chriſt, why ſhould they not be Received? In the Houſe of God there is Room for all, of ſeveral Perſwaſions, that have the Wedding Garment.</p>
+            <p>
+               <hi>Ob.</hi> The Apoſtle ſaith,<note place="margin">
+                  <hi>Gal.</hi> 5.2.9.</note> 
+               <hi>Behold I ſay unto you, that if you be Circumciſed, Chriſt ſhall Profit you nothing,</hi> &amp;c.</p>
+            <p>
+               <hi>R.</hi> True:<note place="margin">2 <hi>Pet.</hi> 2.1, 2. <hi>Tit.</hi> 3.2.</note> For they added to the Foundation ſomthing that deſtroyed it. Such are to be Caſt out, and all that ſhall bring in Damnable Hereſies: A <hi>Heretick</hi> after the firſt and ſecond Admonition is to be Rejected.</p>
+            <p>
+               <hi>Ob.</hi> Our Lord ſeverely threatens Churches for ſuffering thoſe that taught the Doctrines of <hi>Balaam,</hi>
+               <note place="margin">
+                  <hi>Rev.</hi> 2.14, 15.20.</note> and of the <hi>Nicolaitans.</hi>
+            </p>
+            <p>
+               <hi>R.</hi> True: For thoſe were great ſins, againſt the Plain Commands of Chriſt; and ſuch Perſons were not to be Born,<note place="margin">1 <hi>Cor.</hi> 5.5.</note> but be proceeded againſt by Church Cenſures, as the Inceſtuous <hi>Corinthian</hi> was.</p>
+            <p>
+               <hi>Ob.</hi> To what end then ſerve the Confeſſions of Faith of our and other Reformed Churches, in which are many uſeful Truths, beſides thoſe that are abſolutely neceſſary, if all are not to be kept out of their Churches that will not own them?</p>
+            <p>
+               <hi>R.</hi> They are uſeful to ſhew the Truth thoſe Churches have attained to,<note place="margin">
+                  <hi>Tim.</hi> 4.6.7. <hi>Heb.</hi> 5.12. 1 <hi>Cor.</hi> 3.1, 2, 12. <hi>Acts</hi> 20.27. <hi>Mat.</hi> 28.20.</note> and which they are to promote. For it's plain, we muſt go on to Perfection, and not be always Babes; yet Babes and imperfect ones are not to be kept out.</p>
+            <p>We are not to ſtay only on the Foundation, but muſt Build Gold and Precious Stones upon it, and make known all the Councel of God, and teach the Baptized all that Chriſt hath Commanded. But we muſt not imagine theſe Confeſſions were made, that all who are Ignorant, or differ in any thing from them, ſhould be kept from Com<g ref="char:EOLhyphen"/>munion with them; for there are ſeveral degrees of knowledge, and of means to get it. They that have more are to own it, and they that have leſs, are not to be rejected as cut off from Chriſt. Where God gives much, he requires much; and where little, he re<g ref="char:EOLhyphen"/>quires but little.</p>
+            <p>Our Practice confirms this; for the Articles of the Church of <hi>England</hi> are not required to be Subſcrib'd unto by Private <hi>Chriſtians,</hi> but only by the Minſters who are to teach others, and ought to have more knowledge than they. And ſome ſay, that they Subſcribe them not as Articles of Faith, but of Communion, (that is,
+<pb n="5" facs="tcp:56269:5" rendition="simple:additions"/>they will hold Communion with thoſe that hold them) which ſeems ſcarce tolera<g ref="char:EOLhyphen"/>ble in Miniſters, tho it may be enough in private Perſons that Subſcribe them not.<note place="margin">
+                  <hi>Againſt</hi> Fiſher §. 14.</note> And Arch Biſhop <hi>Laud</hi> ſaith, our 39 Articles are not declared to be Fundamental, but onely not Erroneous or Superſtitious; nor impoſed under Pain of Damna<g ref="char:EOLhyphen"/>tion, but for a peaceable Conſent. And whereas the fifth Cannon Excommunicates all that hold them in any part to be Erroneous or Superſtitious, its to be under<g ref="char:EOLhyphen"/>ſtood of thoſe only that affirm it boldly and publickly, and not of thoſe that hold it privately.</p>
+            <p>Secondly, <hi>That no Churches may impoſe Ceremonies and Unneceſſary Things upon ſuch, that they may be received into Communion with them:</hi> For if any uſeful Truths Re<g ref="char:EOLhyphen"/>vealed by God, may not be impos'd on thoſe that hold the neceſſary Fundamental Truths, to the end they may be admitted into Communion with them; much leſs, may Ceremonies and Things invented by men, and not appointed by God, (eſpecially when they are ſuſpected or judged unlawful by many) be impoſed on them for that end. This is plainly unlawful, and is the Cauſe of abundance of Diviſions and Of<g ref="char:EOLhyphen"/>fences.</p>
+            <p>If any ſay, the Rulers of the Congregation, (or Church, as we uſe to ſpeak) may appoint divers things never appointed by God,<note place="margin">
+                  <hi>Thorndike</hi> of Relig. Aſſem. ch. <hi>9.</hi> p. <hi>212.</hi> and many with him.</note> if indifferent and not ſinful in them<g ref="char:EOLhyphen"/>ſelves, and require them to be owned and practiſed by all that ſhall be ſuffered in their Communion; and that they that oppoſe ſuch things reſolutely, are not to be born with but oppoſed, becauſe ſuch are Enemies to Publick Order; that it's not lawful to Diſpence with Publick Order for their ſake that are Weak, for ſo there will never be any Order.</p>
+            <p>It's clear by what is laid down, they may not; and that theſe, and all other pretences are Vain. For if Perſons holding all neceſſary Truth,<note place="margin">Rom. <hi>14.</hi> clear for this. <hi>Daven.</hi> on Col. <hi>2.20.</hi> The Naked Truth, &amp;c.</note> may and ought to be received without owning many uſeful Truths revealed by God, then they that hold all neceſſary Truths, and many other uſeful Truths too, ought to be received without owning or practi<g ref="char:EOLhyphen"/>ſing ſuch things as were never appointed by God, and they judg (though perhaps Erro<g ref="char:EOLhyphen"/>niouſly) to be ſinful, or at leaſt very doubtful and Inconvenient: For if many of Gods uſe<g ref="char:EOLhyphen"/>ful Truths are not to be preſſed as Conditions of their Communion; much leſs may Cere<g ref="char:EOLhyphen"/>monies and needleſs Laws of weak (if not worldly) men, be preſſed as neceſſary to it.</p>
+            <p>Mr. <hi>Chillingworth</hi> is clear in this; and 'tis a wonder Arch Biſhop <hi>Laud,</hi> and King <hi>James</hi> before him, were not ſo, but acted quite againſt this Principle which they highly own'd<note n="*" place="margin">
+                  <hi>K. Cha.</hi> at laſt ſaw this, Anno <hi>1642.</hi> Anſw. to the <hi>19</hi> Propoſ. would have tender Con<g ref="char:EOLhyphen"/>ſciences exempt from ſuch Cere<g ref="char:EOLhyphen"/>monies at are judged by ſome ſober men to be indifferent, and by others abſo<g ref="char:EOLhyphen"/>lutely unlawful.</note> 'Tis related in the Life of <hi>Mornay du Pleſſis,</hi> that in the Year 1591. he Diſcourſed with an <hi>Engliſh</hi> Biſhop, how ill it was for them in <hi>England</hi> to Silence and Puniſh Miniſters for not uſing the Ceremonies; and that in the Year 1608. he wrote to the Lord <hi>Carew</hi> our Embaſſadour, to excite King <hi>James</hi> to procure an Union of all the Proteſtant Churches; and ſaid, the King ſtood too much upon petty differences among his own Subjects, and preſſing the Ceremonies upon them. And in the Year 1615. <hi>du Moulin</hi> was ſent to the King about means to Unite all the Reformed Churches.</p>
+            <p>But our great ſin and miſery is, that many who are for a great largeneſs as to uſeful things taught by Chriſt, are for great ſtrictneſs as to Ceremonies and things taught only by Men. A Notorious Practice againſt this plain Truth. Some, poſſibly, are too ſtrict in preſſing the neceſſity of many uſeful things taught by God, as Conditions of Commu<g ref="char:EOLhyphen"/>nion, but large as to things indifferent preſcribed only by Men. This is a far leſs Fault. But the God of Mercy, though we preſs after all Truth, make us large and wiſe in both! and to Practiſe this, which hath been owned by many, but obſerved by few.</p>
+            <p>
+               <hi>Thirdly,</hi> Hence it follows, that <hi>the true Unity of the Church lies not in Uniformity,</hi> as many through Cuſtom or Intereſt ſtrongly imagine.</p>
+            <p>For the true Unity of Chriſtians lies in their Hearts and Souls; (the multitude of the Believers were of one Heart and Soul) and all that believe and obey the Great things of Chriſt,<note place="margin">
+                  <hi>Acts</hi> 4.32.</note> are truly United to him, and to each other, tho' they differ in uſeful things taught by Chriſt, and much more if in unneceſſary things impos'd only by Men: And the A<g ref="char:EOLhyphen"/>poſtles preſſed not Uniformity in outward Rites, but this inward Unity; <hi>one Spirit, one Lord, one Faith, one Baptiſm, one God and Father of all, who is above all;</hi>
+               <note place="margin">
+                  <hi>Eph.</hi> 4.4, 5, 6. <hi>John</hi> 17.21.</note> 
+               <hi>and through all, and in you all.</hi> And Chriſt our Lord, whoſe Prayers were always heard, prayed that his Followers might be one; which was never granted, if their Oneneſs lie in out<g ref="char:EOLhyphen"/>ward Uniformity.</p>
+            <p>'Twere well, if only ſome Fops ſaid, there can be no Unity without Uniformity in leſſer Things: Many Great and Worthy Perſons ſtick too much in that Conceit, not<g ref="char:EOLhyphen"/>withſtanding the <hi>Clear Demonſtration</hi> to the contrary. But Unity in them is none of the
+<pb n="6" facs="tcp:56269:6"/>Fundamentals, nor hath Chriſt laid our Unity on them, which are ſo many that Men would never agree in them.</p>
+            <p>Beſides, many Churches that had true Unity, had divers Forms of outward Adminiſtra<g ref="char:EOLhyphen"/>tions; and ſo may have yet;<note place="margin">Socr. <hi>l.</hi> 5. c. 2<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. Soz. <hi>l.</hi> 7. c. 29. Spond. <hi>anno</hi> 633. <hi>n.</hi> 10.</note> and Uniformity in Worſhip was but late brought in. In <hi>Spain</hi> not 'till the year 633, in the Fourth Council of <hi>Toledo,</hi> and in many Kingdoms to this day, and among the Romaniſts themſelves, there are varieties of Rites and Cuſtoms, tho' they agree in the main; and divers Orders of their Religious, to whom People of all ſorts reſort, are exempted from the Biſhops.</p>
+            <p>Further, People may have great Uniformity, and no Unity. They may ſit together in the ſame Church, ſay the ſame words, and uſe the ſame geſtures, and yet have their hearts full of Malice, and Enmity; and uſually the bittereſt Enemies of true Religion and Godlineſs, are moſt earneſt for a Unity in needleſs Ceremonies, and formalities.</p>
+            <p>It ſticks much with many, that there can be no Decency or Order without Uniformity in Ceremonies;<note place="margin">1 <hi>Cor.</hi> 14.33.40.</note> and that thoſe who obey them not, are Contentious, and go againſt the Cuſtom of the Churches of God. But this cannot prevail againſt a clear Demonſtration. It's certain, <hi>all things muſt be done Decently, and in Order.</hi> Nature teaches this, tho' St. <hi>Paul</hi> had not mention'd it. But cannot things be ſo done, without a great many need<g ref="char:EOLhyphen"/>leſs Commands of Men? Cannot Baptiſm be decently and in order Adminiſtred without the ſign of the Croſs, or the Lord's Supper without Kneeling, or a Surplice. What if ſome will ſtand with their faces towards the Eaſt, ſome otherwiſe, and moſt with their Eyes towards the Miniſter that Officiates,<note place="margin">
+                  <hi>Luke</hi> 4.20.</note> as Nature ſeems to teach? All ſorts are for Order and Decency, and Believe God is not the Author of Confuſion, but of Peace. But it's ſaid, they that obey not ſuch Orders are Contentious, and go againſt the Cuſtom of the Churches of God.<note place="margin">1 <hi>Cor.</hi> 11.5.13.16.</note> Not ſo, but they that needleſly impoſe them are Contentious, and go againſt the Cuſtom of the Apoſtle, and the beſt Churches that impos'd no ſuch things. And the Cuſtom there mention'd, for Women to have their Faces (not their Heads only) co<g ref="char:EOLhyphen"/>vered, was a laudable thing in the Judgment of all; and the contrary to it, ſeem'd then to be even againſt Nature, as well as againſt the Mind of the Apoſtle;<note n="*" place="margin">Tertul. <hi>de veland. virgi<g ref="char:EOLhyphen"/>nibus.</hi> c. 17.</note> 
+               <hi>quae ſi fuerit in pectore, cognoſcetur &amp; in capite faeminarum.</hi> And if any of the things preſſed now by ſome, were of that Nature, they would be very Contentious that would not obey them.</p>
+            <p>And therefore all true Proteſtants at home and abroad (for to be ſure they hold the Fundamentals) are one, and have a true Unity, tho' otherwiſe they differ in many things, and (to their ſhame) quarrel too. Which is a wonderous Comfort to all good Men, that bewail theſe Contentions, and labour to have them more United.</p>
+            <p>Fourthly, It follows hence plainly, that <hi>none may endeavour by Craft or Force, to Root out and Deſtroy thoſe that Build on the large and true Foundation, if they err in uſeful Truths, or will not joyn with them in the ſolemn Worſhip of God, or at leaſt not conſtantly, but only ſome times. And they ſin yet more, that ſet themſelves chiefly to deſtroy thoſe, that ſeem moſt ſeriouſly to Build on the true Foundation of Faith and Holineſs.</hi> For if ſuch be true Chriſtians, and Members of Chriſts Univerſal Church, and ought to be Cheriſhed and Received into Particular Churches, without having other uſeful Truths, much leſs unneceſſary things, impoſed on them; then for certain they may not be deſtroyed by Vexations, Fines, Impriſonments, Dragoonings, or Death. Thoſe that are true Chriſtians by Profeſſion, much more if in reality, though they Err, are to be cheriſhed by Particular Churches, and not to be ſo uſed. Eſpecially, when our Holy Religion is not to be Propa<g ref="char:EOLhyphen"/>gated by Force or Violence; nor even Hereticks and Schiſmaticks, as many hold, are to be proceeded againſt in that manner, but only by Spiritual Cenſures and Weapons.</p>
+            <p>Fifthly, It follows hence, <hi>That this and other Nations cannot be happy, unleſs we Build on larger Foundations than we have done;</hi> and more than moſt of the <hi>Lutherans</hi> or <hi>Cal<g ref="char:EOLhyphen"/>viniſts,</hi> and others of the Reformation have hitherto done.</p>
+            <p>The Miſery of theſe parts of the World formerly, and to this day, comes in a great meaſure by going againſt this plain Truth. All generally run upon this, that there can be no Union or Quiet, unleſs we agree almoſt in all uſeful Truths taught by Chriſt, nay and in all things too appointed only by Men; And the hands of many who have Eminently owned this great Truth, have been chief in this Treſpaſs; as King <hi>James,</hi> Arch Biſhop <hi>Laud,</hi> and others.</p>
+            <p>The <hi>Romaniſts</hi> have mightily darkned and oppoſed this great Truth, and few of us are yet throughly freed from thoſe Principles wherewith they have long corrupted the World. And Dr. <hi>Henry Moore</hi> ſpake not much amiſs, (though he was ſharply Cenſured
+<pb n="7" facs="tcp:56269:6"/>for it by Dr. <hi>Beaumont</hi>) when he ſaid,<note place="margin">His Apollogy added to his Myſtery of Ini<g ref="char:EOLhyphen"/>quity, <hi>1664.</hi>
+               </note> our Church is not quite emerged out of the general Apoſtacy; and that the Reformers having ſeparated from the great <hi>Babylon</hi> have Built leſs and more tolerable ones, but not to be tolerated for ever. And it will be the glorious Work of great Princes, to cauſe the Publick Conſtitutions about Religion in their Dominions, to be large and good; and ſuch, as a great Part of the Holieſt and beſt Chriſtians may not be Excluded and Trampled upon, but taken in and En<g ref="char:EOLhyphen"/>couraged.</p>
+            <p>But becauſe all lies not on thoſe that have Power to impoſe, but much alſo upon Private Chriſtians;</p>
+            <p>Sixthly, Hence alſo it follows plainly, <hi>That Perſons and Churches that are better than others, are to own others if Built on the true Foundation, for true Chriſtians and Churches; and thoſe that are worſe than others are to own thoſe for true Chriſtians and Churches that are better than they, and to love them as ſuch.</hi> Some perhaps will ſay, yes, if they be in dif<g ref="char:EOLhyphen"/>ferent Kingdoms, but not if they be in the ſame. But why not, though in the ſame Kingdom? Who made the diſtinction?</p>
+            <p>Seventhly, <hi>That Perſons and Churches Built upon the large and true Foundation of Faith and Love, are to ſtrive to hold Communion one with another; The ſtronger and better, with thoſe that are weaker, and the weaker with thoſe that are better.</hi> It's a great Errour to think we may ſeparate for every cauſe, as the <hi>Jews</hi> did in their Divorces; and that there's no true way of Reforming but by Separateing: Therefore they do ill, that will not Com<g ref="char:EOLhyphen"/>municate with Churches where they lawfully may, at leaſt ſometimes; and they do yet worſe, that will hold no Communion with the beſt Churches, where the beſt Doctrine, Worſhip, and Spiritual helps for Souls are.</p>
+            <p>Eighthly, <hi>That Perſons, and Churches that own others for true Churches, may be oblig'd not to hold Communion with them in the Publick Worſhip of God, at leaſt not conſtantly. Not at all,</hi> becauſe ſuch Churches may practice things that are unlawful, and make them the Conditions of their Communion; or Perſons may think ſuch things unlawful which are not; and while their Errour continues, they cannot joyn with them, without going a<g ref="char:EOLhyphen"/>gainſt their Conſcience.</p>
+            <p>
+               <hi>Not conſtantly,</hi> becauſe ſuch Churches may uſe many needleſs, inconvenient, and ſuſpi<g ref="char:EOLhyphen"/>cious things, tho' they that diſſent will not ſay they are abſolutely unlawful; or may ſtick in their weaker beginnings, or go backward, and deny them the uſe of thoſe Spiritual means which Chriſt hath given for the promoting their Salvation.</p>
+            <p>Ninthly, That <hi>there may be true Chriſtian Love between thoſe who do not hold Publick Communion with one another;</hi> becauſe they may both be built on the true Foundation of Faith, and Love. And it's a fond imagination, (to which yet many are too ſubject) to think, that thoſe that will not joyn with them, cannot love them; or that we muſt needs want love to thoſe we cannot joyn with. To think ſo, is a great miſtake,<note place="margin">See Dr. <hi>Owen</hi> of Evangelical Love.</note> diſown'd by all Sober Perſons, and a curſed Root of bitterneſs, and I fear defiles many. 'Tis a ſad thing to ſee this in ſo many, and is a ſign that moſt build their Religion more upon leſ<g ref="char:EOLhyphen"/>ſer things, wherein the Life of it lies not, than on thoſe main things wherein it lies.</p>
+            <p>If any ſay, this will caſt out Diſcipline, and many choice Truths of Chriſt, and in<g ref="char:EOLhyphen"/>troduce Erroneous Rotten Doctrines. I ſay it will not; for tho' People that are weak and diſorder'd, may be true Chriſtians, and Churches, it hinders not but that others may and ought to ſeek after Diſcipline, and Truth, and grow in the ways of God. And they do ill, whoever they are, that ſhall hinder this. And a great part of the Evil and Miſery of the World lies here.</p>
+            <p>To clear theſe Things yet more fully.</p>
+            <p>If the Church of God be built upon ſuch a large Foundation, it plainly follows,</p>
+            <p>
+               <hi>Firſt,</hi> That they Err greatly, that <hi>make every uſeful Truth to be a Fundamental one, and they much more, that make their Great Errours to be of the Foundation on which the Church is built.</hi> The Romaniſts do ſo by their Creed of the Council of <hi>Trent,</hi> affirming
+<pb n="8" facs="tcp:56269:7"/>none can be Saved that own it not. And they alſo, that ſet up Opinions of their own to be Fundamental; as thoſe do, that hold Dioceſan Epiſcopacy, and Ordination by it, ſo neceſſary, that there can be no true Church, nor Sacraments, nor Salvation (in an ordina<g ref="char:EOLhyphen"/>ry way) without it; and whoever elſe among us, that make any of their Opinions ſo abſolutely neceſſary.</p>
+            <p>
+               <hi>Secondly,</hi> They Err greatly, that hold <hi>all great Errors to be Damnable Hereſies; and all ſinful Diviſions to be Damnable Schiſms.</hi>
+            </p>
+            <p>
+               <hi>Thirdly,</hi> They Err greatly, that ſay <hi>People are Baptiz'd into a Particular Church, or Party; and that therefore they forſake their Baptiſm, if at any time they ceaſe to Worſhip God with that Church, or joyn with any other.</hi> For we are all Baptiz'd into the Faith of Chriſt, admitted into the Univerſal Church that's built, on this large Foundation, and by <hi>one Spirit Baptized into one Body.</hi>
+               <note place="margin">1 <hi>Cor.</hi> 12.13.</note> But are there any that ſay ſo? I wiſh there were not.</p>
+            <p>
+               <hi>Fourthly,</hi> From hence it follows, that it's <hi>a Great Sin to confine the Church of God to any one Party of Chriſtians whatſoever, and caſt off others from belonging to it.</hi> Many are much inclin'd to impropriate Chriſt to their Party,<note place="margin">Mead <hi>on Ezek.</hi> 37. <hi>v.</hi> 19.</note> as it's ſaid the Donatiſts of old did; but we muſt not Unſaint the whole World to Conſecrate our own way; and they Err greatly, that ſet up particular Churches in oppoſition to others, and ſo as to diſown o<g ref="char:EOLhyphen"/>ther particular Churches that are true parts of the Univerſal. Many are apt to deſtroy God's Inviſible Church by their Diſputes about the Viſible, which was appointed for the good of it, and to deſtroy many particular Viſible Churches by their ſtrange Notions of Particular or National Churches.</p>
+            <p>
+               <hi>Fifthly,</hi> that <hi>thoſe of the Church of England that will never joyn in Worſhip with the Diſſenters on the one hand, and thoſe Diſſenters on the other hand, that will never joyn with them, act againſt the plain light of this great Truth:</hi> And thus, many that differ moſt in other things, agree in this Dividing Principle, and are great hinderers of the Peace and Edification of the Church amongſt us. The <hi>Non-Conformiſts</hi> are accuſed that they perſwade People not to go to the Publick Churches. This is very untrue of moſt of them. But it's moſt certain, that abundance of the Conformiſts make it their work to diſſuade People from going to hear the Non-Conformiſts, tho' unblameable in their Life and Doctrine, and followers of Peace with them. They do it publickly with much ve<g ref="char:EOLhyphen"/>hemence in their Sermons, and privately in their Diſcourſes. Some of them ſay, if any do, they renounce their Baptiſmal Covenant; ſome on their Death-Bed, have ſolemnly engag'd ſome of their Relations never to hear any of the Diſſenters; and ſome of them have Preach'd in great Auditories, that a Heathen may be Saved, but that a Non-Con<g ref="char:EOLhyphen"/>formiſt cannot; not to mention other things. And who then are the People that ſeek for Peace, and who violently oppoſe it?</p>
+            <p>
+               <hi>Sixthly,</hi> Hence it follows not, That, <hi>If we may joyn with a Church ſometimes, we are bound to do ſo always.</hi> Many build much upon this, and that People ſin greatly if they do not. But this is a great Miſtake. For it follows not, that what we may do ſometimes, we muſt do always; for in many caſes we do things ſometimes, for ſeveral Reaſons, which we will not, may not do always. Hundreds of Inſtances might be gi<g ref="char:EOLhyphen"/>ven, and ſtrong Reaſons too. By this Rule, we ſhould be bound conſtantly to Commu<g ref="char:EOLhyphen"/>nicate with the worſt Churches, that we think we may Communicate with ſometimes, but if we could ſometimes Communicate with the <hi>Greek Churches</hi> in their way, would we al<g ref="char:EOLhyphen"/>ways do it if we could do otherwiſe? Or with the <hi>Lutherans,</hi> would we always do it? Or if the <hi>Lutherans</hi> could joyn with us, (as the Synod at <hi>Charenton</hi> in <hi>France</hi> permitted them to do) would they do it always? Or if the <hi>Nonconformiſts</hi> can joyn ſometimes with Churches where there are corrupt and unprofitable Miniſters, ſcandalous and malicious People, divers bad impoſitions, and an excluſion of ſome things that Chriſt hath given for the Churches benefit, muſt they do ſo always? Beſides, this would tempt the <hi>Nonconfor<g ref="char:EOLhyphen"/>miſts</hi> wholly to leave the <hi>Conformiſts</hi> Churches; for the <hi>Conformiſts</hi> argue thus. All Chur<g ref="char:EOLhyphen"/>ches that may be ſometimes Communicated with, ought always to be Communicated with: But the <hi>Conformiſts</hi> Churches (ſay the Diſſenters) may ſometimes be Communicated with, therefore they ought always be Communicated with. But the <hi>N. C.</hi> hereupon will argue thus: Thoſe Churches we may not always Communicate with, we may never Commu<g ref="char:EOLhyphen"/>nicate with; (ſo ſay the <hi>Conformiſts.</hi>) But the <hi>Conformiſts</hi> Churches may not always be
+<pb n="9" facs="tcp:56269:7"/>Communicated with, (ſay the <hi>N. C.</hi>) Therefore they ought never be Communicated with.</p>
+            <p>And this Arguing will be ſtronger with the <hi>N. C.</hi> than the other, becauſe they are more ſtrongly perſwaded they ought not always to joyn with the <hi>Conformiſts,</hi> than that they ought to joyn with them ſometimes. But this Principle is deeply laid in the hearts of many <hi>N. C.; Reformation, but not Separation;</hi> and they ſay, tho' they cannot Con<g ref="char:EOLhyphen"/>form, they muſt Preach, and ſtrive to ſave Souls, and in their places to reform what's a<g ref="char:EOLhyphen"/>miſs, tho' they ſay the <hi>Conformiſts</hi> Churches are not unlawful to be Communicated with. They own them as true Churches, and would help on the work of God that is done in them, and believe the <hi>Conformiſts</hi> alſo ſhould own them, and be glad of their aſſiſt<g ref="char:EOLhyphen"/>ance.</p>
+            <p n="7">7. <hi>Seventhly,</hi> That <hi>Wickedneſs in Heart and Life againſt Chriſt's Commands, deſtroys the Church, as well as Errours againſt his Truths.</hi> For a profeſſion of Obedience to Chriſt is as neceſſary, as a profeſſion of his Truth; and a ſincere Obedience is as neceſſary to make one a true living Chriſtian, as an unfeigned belief of the Truth: It's wickedneſs that tears the Church of God amongſt us, and abroad, more than any thing; and Love (which includes Holineſs) Unites it moſt, and builds it up.<note place="margin">1 <hi>Cor.</hi> 13.</note> It's not ſo much difference in Judge<g ref="char:EOLhyphen"/>ment that cauſes our Diviſions, as the wickedneſs and hatred of the Power of Godlineſs, and thoſe that own it, tho' of the ſame way with them; and it's wickedneſs that chiefly leads People into bad Opinions. They therefore go againſt the Foundation of the Church that neglect it, and countenance the debauch'd World,<note place="margin">Mr. <hi>Baxter</hi>'s Book of <hi>Cain</hi> and <hi>Abel.</hi>
+               </note> or the formal dead World, and thoſe that hate God. The great Enmity lies here, between the Godly, and the Wicked, the Seed of the Woman, and the Seed of the Serpent; and they do not build up, but pull down the Church, that take part with theſe.<note place="margin">
+                  <hi>Luke</hi> 12.</note> 
+               <hi>Our Lord came to ſend Fire on the Earth; not Peace, but a Sword:</hi> And whence is this, but from the wickedneſs of Men that Fights againſt him?</p>
+            <p n="8">8. <hi>Eighthly,</hi> That <hi>Perſons may be true Chriſtians, tho' they Err, and go much againſt this main Truth.</hi>
+               <note n="*" place="margin">Yet he that hateth his Bro<g ref="char:EOLhyphen"/>ther is a Mur<g ref="char:EOLhyphen"/>therer, and no Murtherer hath everlaſting life abiding in him. <hi>1 Joh. 3.15.</hi>
+               </note>
+            </p>
+            <p>Tho' they be Ignorant, or Err in divers uſeful Truths, and be Zealous for their Errours.</p>
+            <p>Tho' they Practice divers things in their Lives, and in the Worſhip of God, which they ought not.</p>
+            <p>Tho' they impoſe their Errours and Practices on others, as neceſſary to Communion with them.</p>
+            <p>Tho' they Vex, Fine, Impriſon, Baniſh, and uſe Cruelties againſt thoſe that differ from them.</p>
+            <p>Tho' they ſay, thoſe that joyn not with them are no true Churches, nor can be Saved.</p>
+            <p>And much more thoſe, that own others for true Chriſtians, and Churches, and Perſe<g ref="char:EOLhyphen"/>cute them not, tho' they dare not hold Communion with them, when they might, and ought.</p>
+            <p>For many of theſe, tho' they ſin, and many of them very greatly, may not be in a ſtate of Damnation; for they may do ſuch things ignorantly, through Cuſtom, Weakneſs, or Temptation; and may have in their Hearts true Faith in Jeſus Chriſt, and Love to him, and his Saints, and be ſaved by a General Repentance. The <hi>Lutherans</hi> generally will not joyn with the <hi>Calviniſts;</hi> nor our <hi>Conformiſts</hi> with the ſober <hi>Diſſenters;</hi> nor the <hi>Anabaptiſts</hi> with either; and who dare ſay that all of thoſe are in a ſtate of Damnation? Thus we ſee what need all ſorts of Chriſtians have of this Charitable but true Principle; and they eſpecially, that are ſo forward to impoſe upon others, and exclaim againſt them, and Fine, Trouble, and Puniſh them too. But though ſome of theſe may be Saved, it highly concerns ſuch to look well to themſelves, that they be of that number; and not like thoſe <hi>Jews</hi> of old, that ſtrove to make the Scriptures ſerve their Gain and Ambition,<note place="margin">Grotius <hi>on Mat.</hi> 21.38.</note> thereby killing the Heir, that they might be Great, and Rule the People.</p>
+            <p n="9">9. <hi>Ninthly,</hi> Hence it plainly follows, <hi>that this is the only true way to build up the Church of God.</hi> Not for People to Conform to all things in the places where they ſhall live; nor to require all to agree to all things taught by Chriſt, or invented by Men, and root out
+<pb n="10" facs="tcp:56269:8"/>all that comply not; nor to make forms of Agreement in ſuch words, as ſeveral Parties keeping their Opinions may agree in, as <hi>Melancthon, Bucer,</hi> and others in the beginning of the Reformation did; but plainly to lay down the great Things of the Goſpel wherein we agree, omitting other things wherein we differ; and bearing with each other, and mutually loving and aſſiſting each other. Theſe Large and Sure Foundations will cer<g ref="char:EOLhyphen"/>tainly lead us to this, and all that can be ſaid againſt it, is but the effect of Prejudice, or Intereſt.</p>
+            <p>The <hi>Lutherans</hi> and <hi>Calviniſts</hi> by this means might have United, and a miſerable Breach have been prevented. 'Tis not ſo ſmall a thing we aim at, as an Union between the <hi>Presbyterians,</hi> and <hi>Congregational,</hi> (for wherein almoſt do they differ?) Nor only with the Godly Epiſcopal Men at home, but with all every where that build on the true Foundation, and hold nothing that overthrows it; as groſs Idolatry, and damnable Here<g ref="char:EOLhyphen"/>ſies do. To approve what is good in all, and to cleave to what we judge beſt. To Communicate with others, at leaſt ſometimes; and if we cannot do that, yet to love them as the Servants of Chriſt, and ſeek their good.</p>
+            <p>What miſchiefs have been in the Chriſtian World for want of this? Of old, to paſs by many others.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">year </seg>192</label>
+               <hi>Victor</hi> Biſhop of <hi>Rome,</hi> who Excommunicated the Churches of <hi>Aſia</hi> for not keeping <hi>Eaſter</hi> on the Lord's Day.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">year </seg>257</label>
+               <hi>Stephen</hi> Biſhop of <hi>Rome,</hi> who Condemn'd <hi>Cyprian</hi> and his Followers, for re-baptizing thoſe that had been Baptiz'd by Schiſmaticks.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">year </seg>663</label> The <hi>Saxon</hi> Chriſtians in <hi>England,</hi> who ſo oppos'd the <hi>Scotch</hi> who kept not <hi>Eaſter</hi> after the <hi>Roman</hi> way, that they would not receive Conſecration from them, nor the Euchariſt, nor give it to them; nay, and queſtion'd the Baptiſm Adminiſtred by them.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">year </seg>692</label> The <hi>Latine</hi> and <hi>Greek</hi> Churches ſeparated about Faſting on <hi>Saturdays,</hi> eating Blood, Unleaven'd Bread in the Euchariſt, <hi>&amp;c.</hi> Their Quarrel encreas'd under <hi>Photius,</hi> upon the Nice Diſpute of the Proceſſion of the Holy Ghoſt from the Father and the Son, and not only by the Son; tho' the Superiority of the Biſhop of <hi>Rome</hi> over the Biſhop of <hi>C. P.</hi> was in the bottom.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">years </seg>1054. 1213. 1274.</label>
+               <hi>Leo</hi> IX Excommunicated the <hi>Greeks,</hi> and <hi>Humbert</hi> wrote againſt them. And the <hi>La<g ref="char:EOLhyphen"/>tins</hi> when they took <hi>CP.</hi> Impriſon'd, and cruelly us'd the <hi>Greek</hi> Prieſts, for not uſing the <hi>Roman</hi> Ceremonies; and the <hi>Greeks</hi> abhor'd them, ſcrap'd the Altars where they had ſaid Maſs, <hi>&amp;c.</hi> An Union was made at the ſecond Council at <hi>Lyons,</hi> but the <hi>Greeks</hi> ſo oppos'd it at <hi>CP.</hi> that <hi>Michael Palaeologus</hi> the Emperor who procured it, was ſo hated, that when he died, he was not ſuffered to be publickly Buried.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">year </seg>1439</label> And Union made again at <hi>Florence;</hi> but <hi>Marcus Epheſius,</hi> and <hi>Geo: Scholarius</hi> oppos'd it, and it came to nothing.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">year </seg>1564</label> The <hi>Roman</hi> Church is yet grown higher, enjoyns the Council of <hi>Trent,</hi> and the Creed of it, and Damns all that own it not.</p>
+            <p>'Twere well if by theſe Miſcarriages, Proteſtants both here, and abroad, had <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nt<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> more Wiſdom, and had avoided thoſe Conteſts that have been among them. God grant we may be Wiſer for the future.</p>
+            <p n="10">10. <hi>Tenthly,</hi> This <hi>muſt needs be moſt agreeable to Princes and Rulers that unfeignedly en<g ref="char:EOLhyphen"/>deavour to Promote the Kingdom of God.</hi>
+            </p>
+            <p>Not to ſay there's a Moral impoſſibility of Peace in a State, without a ſtrict Unifor<g ref="char:EOLhyphen"/>mity in the Church.</p>
+            <p>Not to force Men to the ſame Opinion, and Practice in all things, and to vex and de<g ref="char:EOLhyphen"/>ſtroy all that differ from them, whether upon right or miſtaken grounds. This Courſe hath been long taken by moſt, and will not do; and no wonder, for it's not of God; not according to the clear Truth laid down in Scripture by our Great Teacher ſent by God, nor according to the Rules of true Wiſdom. For what Wiſe and Great Prince would be at the head of a Party only, and tempt all others to hate him? What great Things can he propoſe to do in the World, or have any hope to effect? Whereas the other way is of God, ſpeaks Univerſal Goodneſs, and can be grievous to none, but to blind Superſtitious People; and to ſuch Mean and Wicked Perſons, whoſe United Carnal Intereſts lead them to Sacrifice the welfare of the World to their particular Luſts, which at length oft ends in their own ruine. But when God ſhall ariſe to do good to the World, (which we hope he will, tho' we deſerve it not) he will raiſe up He<g ref="char:EOLhyphen"/>roick Princes, and enable them to break the Yoaks of Superſtitious and Deſigning Men, and promote Truth and Love; who ſhall Cheriſh the Good, Protect the Peaceable,
+<pb n="11" facs="tcp:56269:8"/>People of all ſorts from their Miſtakes by all fair means, and tread down none but thoſe that Fight againſt theſe things.</p>
+            <p>And it's evident, that Stateſmen oft-times have Larger and Righter Thoughts, than many that pore on Books, and refine upon Religion; and oft prove like the Princes that delivered good <hi>Jeremiah</hi> from the hands of thoſe Prieſts and Prophets that would have de<g ref="char:EOLhyphen"/>ſtroyed him for ſpeaking the Truth, which God ſent him to do.<note place="margin">
+                  <hi>Jer.</hi> 26.10.16.</note>
+            </p>
+            <p>
+               <hi>This main Principle, and the Plain Conſequences from it, may be diſpleaſing to divers; but it is a Great Truth of God, and will prevail in his due time.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="errata">
+            <head>ERRATA.</head>
+            <p>PAge <hi>1.</hi> line <hi>28.</hi> after <hi>Holy Scriptures</hi> add a Colon: p. <hi>2.</hi> l. <hi>14.</hi> after <hi>Gods Church</hi> add a Colon: l. <hi>49.</hi> for <hi>choſe,</hi> read <hi>chuſe.</hi> p. <hi>4.</hi> l. <hi>8. to ſuch as neceſſary,</hi> add a Comma at <hi>ſuch,</hi> p. <hi>5.</hi> l. <hi>10.</hi> for <hi>any uſeful,</hi> read <hi>many uſeful.</hi> l. <hi>39.</hi> for <hi>Muolin,</hi> r. <hi>Moulin.</hi> p. <hi>6.</hi> l. <hi>6.</hi> after <hi>themſelves,</hi> add a Comma. p. <hi>7.</hi> l. <hi>12.</hi> for <hi>others ore,</hi> r. <hi>others, are.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
